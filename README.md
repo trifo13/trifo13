@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trifo13
 - 👀 I’m interested in learning new stuff.
-- 🌱 I’m currently learning Docker.
+- 🌱 I’m currently learning Hashicorp Vault.
 - 💞️ I’m looking to collaborate on everything/anything.
 - 📫 How to reach me: trifo13@gmail.com
 
