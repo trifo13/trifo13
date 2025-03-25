@@ -10,7 +10,7 @@
 
 - :office: [Terraform Certified](https://www.credly.com/badges/c795051b-ef45-425a-89f9-39425222f18f/public_url).
 
-- :notebook: I’m currently learning Hashicorp Consul.
+- :notebook: I’m currently learning Docker.
 
 - 💞️ I’m looking to collaborate on everything/anything.
 
